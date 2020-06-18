@@ -3,5 +3,3 @@
 <h2> Glad to see you here </h2>
 <h2> Deploying on VM...</h2>
 <h3> pollSCM auto...really</h3>
-<h4> ansible docker... </h4>
-<h3> final ansible-playbook </h3>
