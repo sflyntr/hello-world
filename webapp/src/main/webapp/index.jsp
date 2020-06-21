@@ -5,3 +5,4 @@
 <h3> pollSCM auto...really</h3>
 <h4> ansible docker... </h4>
 <h3> final ansible-playbook </h3>
+<h3> kubernetes ci/cd test</h3>
